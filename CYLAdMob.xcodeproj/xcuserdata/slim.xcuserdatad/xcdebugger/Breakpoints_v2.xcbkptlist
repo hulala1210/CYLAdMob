@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "43AA614D-9888-4D95-B74B-629D4AAD3BC1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "37E229E4-C612-42D5-B220-B49030638E80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA6BC193-5531-4064-8AFB-23446D99F555"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CYLAdMob/CYLAdWapper.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "+prepare"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA6BC193-5531-4064-8AFB-23446D99F555 - 56f166e4c92a1df8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[CYLAdWapper prepare]"
+                  moduleName = "CYLAdMob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slim/Desktop/CYLAdMob/CYLAdMob/CYLAdWapper.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "EA6BC193-5531-4064-8AFB-23446D99F555 - ffcf67d525babb70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__22+[CYLAdWapper prepare]_block_invoke"
+                  moduleName = "CYLAdMob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slim/Desktop/CYLAdMob/CYLAdMob/CYLAdWapper.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "EA6BC193-5531-4064-8AFB-23446D99F555 - a01758b53c4ffb91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__22+[CYLAdWapper prepare]_block_invoke"
+                  moduleName = "CYLAdMob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/slim/Desktop/GitHub/CYLAdMob/CYLAdMob/CYLAdWapper.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
